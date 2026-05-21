@@ -19,15 +19,14 @@ With expertise in **Human Resources Management** and **Operations**, I bring a u
 
 ### Languages & Development
 - **Languages:** Python, JavaScript/TypeScript, SQL, Bash
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Web Technologies:** HTML, CSS, JS
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ### HR Tech & Tools
 - **HRIS Systems:** Workday, BambooHR, Guidepoint
 - **ATS Platforms:** LinkedIn Recruiter, Applicant Tracking Systems
 - **Analytics:** Tableau, Power BI, Google Analytics
-- **Automation:** Zapier, n8n, API Integration
 - **Project Management:** Jira, Asana, Monday.com
 
 ### Data & Analytics
@@ -101,9 +100,8 @@ I'm continuously upskilling in:
 
 ## 📫 Get In Touch
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Portfolio:** [Your Portfolio/Website]
+- **Email:** [@sarthaklondhe](sarthaklondhe750@gmail.com)
+- **LinkedIn:** [@sarthaklondhe](https://www.linkedin.com/in/sarthaklondhe/)
 - **GitHub:** [@sarthaklondhe](https://github.com/sarthaklondhe)
 
 ---
